@@ -1,0 +1,8 @@
+
+build
+.idea
+cmake-build-debug
+*.o
+
+# target object file
+sdlBookGameDemo
